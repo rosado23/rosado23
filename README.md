@@ -80,10 +80,8 @@ Gestión automática de citas por WhatsApp con Claude API
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosado23&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosado23&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="150"/>
-</div>
+  <img src="https://streak-stats.demolab.com?user=rosado23&theme=dark&hide_border=true" height="150"/>
+</div>>
 
 ---
 
