@@ -17,7 +17,7 @@ Soy de los que instalan, rompen, arreglan y documentan.
 
 - 📍 Barcelona, España
 - 🎓 CFGS ASIX — Institut Puig Castellar (2026)
-- 💼 Técnico de Sistemas @ Microdigit Informática
+- 💼 Ex-Técnico de Sistemas (prácticas) @ Microdigit Informática · 2025–2026
 - 🌱 Aprendiendo: **Python · AWS · n8n · Claude API**
 - 🎯 Objetivo: Cloud + DevOps + AI Automation en remoto
 
@@ -27,7 +27,6 @@ Soy de los que instalan, rompen, arreglan y documentan.
 
 ### 🎵 [Vibrana — AI Music Therapy Platform](https://github.com/rosado23/Vibrana)
 Plataforma web de bienestar sonoro con IA · Proyecto final ASIX · ~400h
-
 - Motor terapéutico propio (AuraEngine) con sesiones de 30 canciones en 4 fases
 - Integración Spotify API + Groq + LLaMA 4 para recomendaciones con IA
 - Perfil psicoacústico de 7 dimensiones (HDM) con Chart.js
@@ -35,20 +34,12 @@ Plataforma web de bienestar sonoro con IA · Proyecto final ASIX · ~400h
 - Autenticación dual JWT + Google OAuth 2.0
 - MySQL 12 tablas · Node.js + Express 5 · 60fps animaciones
 
-### ☁️ Backup Multi-nube Automático
+### ☁️ [Backup Multi-nube Automático](https://github.com/rosado23/backup-multinube)
 Sistema de sincronización y deduplicación de fotos · PowerShell + rclone + icloudpd
-
 - Sincronización automática iCloud + Google Fotos + Google Drive (2 cuentas)
 - Deduplicación inteligente por hash MD5 con prioridad entre fuentes
 - 122.788 ficheros procesados · 100 GB ahorrados · 0 errores
 - Ejecución programada cada 2 semanas vía Windows Task Scheduler
-
-### 🤖 Bot Peluquería con IA *(en desarrollo)*
-Gestión automática de citas por WhatsApp con Claude API
-
-- Gestión de citas, disponibilidad y recordatorios automáticos
-- Envío de ofertas personalizadas a clientes
-- Integración con Google Calendar
 
 ---
 
@@ -72,7 +63,6 @@ Gestión automática de citas por WhatsApp con Claude API
 
 **Cloud & Automatización**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ---
@@ -81,7 +71,7 @@ Gestión automática de citas por WhatsApp con Claude API
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rosado23&theme=dark&hide_border=true" height="150"/>
-</div>>
+</div>
 
 ---
 
