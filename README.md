@@ -67,14 +67,6 @@ Sistema de sincronización y deduplicación de fotos · PowerShell + rclone + ic
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rosado23&theme=dark&hide_border=true" height="150"/>
-</div>
-
----
-
 ## 🏆 Certificaciones
 
 - 🤖 Google AI Professional Certificate (Coursera, 2026)
